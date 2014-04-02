@@ -1,8 +1,3 @@
-/*
- * sxs135630
- * UI Assignment 2
- * 
- */
 
 package GUI;
 
